@@ -1,0 +1,37 @@
+spring:
+  application:
+    name: myConfig
+  cloud:
+    config:
+#      uri: http://localhost:7000
+      label: master
+      profile: develop
+      discovery:
+        enabled: true
+        service-id: config-server
+#      username: hello
+#      password: 123456
+  rabbitmq:
+    host: localhost
+    port: 5672
+    username: config-server
+    password: 123456
+
+eureka:
+  client:
+    registerWithEureka: true
+    fetchRegistry: true
+    service-url:
+      defaultZone: http://node1:10097/eureka/
+
+server:
+  port: 8000
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: '*'
+  endpoint:
+    shutdown:
+      enabled: true

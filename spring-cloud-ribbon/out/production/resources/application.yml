@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: eureka-ribbon-client
+
+server:
+  port: 8888
+
+eureka:
+  client:
+    registerWithEureka: true
+    fetchRegistry: true
+    service-url:
+      defaultZone: http://node1:10097/eureka/

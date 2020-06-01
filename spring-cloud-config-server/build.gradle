@@ -1,0 +1,94 @@
+buildscript {
+    ext {
+        springBootVersion = '2.2.5.RELEASE'
+    }
+
+    repositories {
+        maven {
+            url 'http://maven.aliyun.com/nexus/content/groups/public/'
+        }
+        maven {
+            url 'http://maven.aliyun.com/nexus/content/repositories/jcenter'
+        }
+        maven {
+            url 'https://repo.spring.io/libs-milestone'
+        }
+        maven {
+            url 'https://repo.spring.io/milestone'
+        }
+        mavenCentral()
+    }
+
+    dependencies {
+        classpath (
+                "org.springframework.boot:spring-boot-gradle-plugin:${springBootVersion}",
+                "io.spring.gradle:dependency-management-plugin:1.0.6.RELEASE"
+        )
+    }
+}
+
+apply {
+    plugin("java")
+    plugin("maven")
+    plugin("idea")
+    plugin("org.springframework.boot")
+    plugin("io.spring.dependency-management")
+}
+
+group 'com.lieding'
+version '1.0'
+
+sourceCompatibility = 1.8
+targetCompatibility = 1.8
+
+ext {
+    springCloudVersion = 'Hoxton.SR3'
+    springCloudNetflixVersion = '2.2.2.RELEASE'
+}
+
+dependencyManagement {
+    imports {
+        mavenBom "org.springframework.cloud:spring-cloud-dependencies:${springCloudVersion}"
+    }
+    imports {
+        mavenBom "org.springframework.cloud:spring-cloud-netflix:${springCloudNetflixVersion}"
+    }
+}
+
+repositories {
+    maven {
+        url 'http://maven.aliyun.com/nexus/content/groups/public/'
+    }
+    maven {
+        url 'http://maven.aliyun.com/nexus/content/repositories/jcenter'
+    }
+    maven {
+        url 'https://repo.spring.io/libs-milestone'
+    }
+    maven {
+        url 'https://repo.spring.io/milestone'
+    }
+    mavenCentral()
+}
+
+dependencies {
+    compile (
+            "org.springframework.boot:spring-boot-starter-web",
+            "org.springframework.cloud:spring-cloud-starter-netflix-eureka-server",
+            "org.springframework.boot:spring-boot-starter-actuator",
+            "org.springframework.boot:spring-boot-starter-undertow",
+            "org.springframework.cloud:spring-cloud-config-server",
+            "org.springframework.cloud:spring-cloud-starter-bus-amqp"
+           /* "org.springframework.boot:spring-boot-starter-security"*/
+    )
+
+    configurations {
+        all*.exclude group: 'org.springframework.boot', module: 'spring-boot-starter-tomcat'
+    }
+}
+
+tasks.withType(JavaCompile) {
+    options.encoding = "UTF-8"
+}
+
+[compileJava, javadoc, compileTestJava]*.options*.encoding = "UTF-8"

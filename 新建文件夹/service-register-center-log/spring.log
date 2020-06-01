@@ -1,0 +1,21 @@
+2020-05-31 00:00:47.041  INFO 9672 --- [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 0ms
+2020-05-31 00:01:47.042  INFO 9672 --- [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 0ms
+2020-05-31 00:02:47.042  INFO 9672 --- [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 0ms
+2020-05-31 00:03:04.171  INFO 9672 --- [XNIO-2 task-15] c.n.e.registry.AbstractInstanceRegistry  : Registered instance ZUUL-GATEWAY/localhost:zuul-gateway:5000 with status UP (replication=false)
+2020-05-31 00:03:47.043  INFO 9672 --- [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 0ms
+2020-05-31 00:04:47.043  INFO 9672 --- [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 0ms
+2020-05-31 00:05:45.851  INFO 9672 --- [XNIO-2 task-42] c.n.e.registry.AbstractInstanceRegistry  : Registered instance EUREKA-CLIENT/192.168.0.130:eureka-client:9091 with status UP (replication=false)
+2020-05-31 00:05:47.044  INFO 9672 --- [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 0ms
+2020-05-31 00:05:47.388  INFO 9672 --- [XNIO-2 task-45] c.n.e.registry.AbstractInstanceRegistry  : Registered instance ZUUL-GATEWAY/192.168.0.130:zuul-gateway:5000 with status UP (replication=false)
+2020-05-31 00:06:47.044  INFO 9672 --- [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 0ms
+2020-05-31 00:07:09.907  INFO 9672 --- [XNIO-2 task-61] c.n.e.registry.AbstractInstanceRegistry  : Registered instance ZUUL-GATEWAY/192.168.0.130:zuul-gateway:5000 with status UP (replication=false)
+2020-05-31 00:07:46.948  WARN 9672 --- [Eureka-PeerNodesUpdater] c.n.eureka.cluster.PeerEurekaNodes       : The replica size seems to be empty. Check the route 53 DNS Registry
+2020-05-31 00:07:47.044  INFO 9672 --- [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 0ms
+2020-05-31 00:08:47.045  INFO 9672 --- [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 0ms
+2020-05-31 00:09:47.045  INFO 9672 --- [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 0ms
+2020-05-31 00:10:47.046  INFO 9672 --- [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 0ms
+2020-05-31 00:11:47.046  INFO 9672 --- [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 0ms
+2020-05-31 00:12:46.892  INFO 9672 --- [ReplicaAwareInstanceRegistry - RenewalThresholdUpdater] c.n.e.r.PeerAwareInstanceRegistryImpl    : Current renewal threshold is : 8
+2020-05-31 00:12:47.047  INFO 9672 --- [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 0ms
+2020-05-31 00:13:47.047  INFO 9672 --- [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 0ms
+2020-05-31 00:14:47.047  INFO 9672 --- [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 0ms

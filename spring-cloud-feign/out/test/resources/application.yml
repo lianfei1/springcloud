@@ -1,0 +1,24 @@
+spring:
+  application:
+    name: feign-client
+  zipkin:
+    enabled: true
+    base-url: http://localhost:9411
+
+#  sleuth:
+#    sampler:
+#      rate: 10
+
+server:
+  port: 8888
+
+eureka:
+  client:
+    registerWithEureka: true
+    fetchRegistry: true
+    service-url:
+      defaultZone: http://node1:10097/eureka/
+
+logging:
+  level:
+    com.lieding.feign.client.EurekaClientFeign: debug

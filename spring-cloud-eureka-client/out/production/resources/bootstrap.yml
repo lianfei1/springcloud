@@ -1,0 +1,51 @@
+spring:
+  application:
+    name: eureka-client
+  cloud:
+    config:
+      uri: http://localhost:7000
+      label: master
+      profile: develop
+  zipkin:
+    enabled: true
+    base-url: http://localhost:9411
+  #      discovery:
+#        enabled: true
+#        service-id: config-server
+#      username: hello
+#      password: 123456
+
+  rabbitmq:
+    host: localhost
+    port: 5672
+    username: config-server
+    password: config-server
+
+server:
+  port: 9091
+
+
+eureka:
+  client:
+    registerWithEureka: true
+    fetchRegistry: true
+    service-url:
+      defaultZone: http://node1:10097/eureka/
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: '*'
+  endpoint:
+    shutdown:
+      enabled: true
+
+student:
+  information:
+    address: shanghai
+    name: zhangsan
+
+logging:
+  level:
+    root: trace

@@ -1,0 +1,46 @@
+spring:
+  application:
+    name: service-register-center
+  mandatory-file-encoding: UTF-8
+  http:
+    encoding:
+      enabled: true
+      charset: UTF-8
+
+logging:
+  level:
+    root: info
+  file:
+    max-size: 15MB
+    path: service-register-center-log
+  pattern:
+    dateformat: yyyy-MM-dd HH:mm:ss.SSS
+
+server:
+    port: 10097
+    undertow:
+      accesslog:
+        enabled: true
+        dir: undertow-access-logs
+        pattern: common
+        rotate: true
+        prefix: service_register_center_access_log.
+        suffix: log
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: '*'
+  endpoint:
+    shutdown:
+      enabled: true
+
+eureka:
+  instance:
+    hostname: node1
+  client:
+    registerWithEureka: false
+    fetchRegistry: false
+    service-url:
+      defaultZone: http://node1:10097/eureka/

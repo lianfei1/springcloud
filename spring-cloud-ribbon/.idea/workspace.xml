@@ -1,0 +1,1186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2b59497b-657f-4945-b0fd-cd60939d539c" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="spring-cloud-ribbon" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1062559578">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.2" value="3" />
+          <entry key="project.opened" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="gradle" value="2" />
+          <entry key="java" value="33" />
+          <entry key="kt" value="1" />
+          <entry key="yml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Groovy" value="2" />
+          <entry key="JAVA" value="33" />
+          <entry key="Kotlin" value="1" />
+          <entry key="YAML" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="gradle" value="53" />
+          <entry key="java" value="714" />
+          <entry key="yml" value="106" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Groovy" value="53" />
+          <entry key="JAVA" value="714" />
+          <entry key="YAML" value="106" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/lieding/ribbon/EurekaRibbonClientApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="17" column="14" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
+              <folding>
+                <element signature="e#447#448#0" expanded="true" />
+                <element signature="e#521#522#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://F:/gradle/gradle-4.10/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-netflix-hystrix-dashboard/2.2.2.RELEASE/7ec3f7483acce15b5ff1345996a1ea83ed6a8d7a/spring-cloud-netflix-hystrix-dashboard-2.2.2.RELEASE-sources.jar!/org/springframework/cloud/netflix/hystrix/dashboard/EnableHystrixDashboard.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="86">
+              <caret line="32" column="26" selection-start-line="32" selection-start-column="26" selection-end-line="32" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://F:/gradle/gradle-4.10/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-netflix-hystrix-dashboard/2.2.2.RELEASE/7ec3f7483acce15b5ff1345996a1ea83ed6a8d7a/spring-cloud-netflix-hystrix-dashboard-2.2.2.RELEASE-sources.jar!/org/springframework/cloud/netflix/hystrix/dashboard/HystrixDashboardConfiguration.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2172">
+              <caret line="58" column="13" selection-start-line="58" selection-start-column="13" selection-end-line="58" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://F:/gradle/gradle-4.10/caches/modules-2/files-2.1/com.netflix.hystrix/hystrix-javanica/1.5.18/f727ee47b3fa9bba5b73944025b2ecaf54d26679/hystrix-javanica-1.5.18-sources.jar!/com/netflix/hystrix/contrib/javanica/annotation/HystrixCommand.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1219">
+              <caret line="72" column="19" selection-start-line="72" selection-start-column="19" selection-end-line="72" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/lieding/ribbon/com/lieding/ribbon/controller/RibbonController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="529">
+              <caret line="23" column="38" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="38" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#665#666#0" expanded="true" />
+                <element signature="e#713#714#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/lieding/ribbon/service/RibbonService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="230">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://F:/gradle/gradle-4.10/caches/modules-2/files-2.1/org.springframework/spring-webmvc/5.2.4.RELEASE/e266db43ad481712ee9eb7eeaf951db1d0116216/spring-webmvc-5.2.4.RELEASE-sources.jar!/org/springframework/web/servlet/mvc/method/annotation/ServletInvocableHandlerMethod.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1702">
+              <caret line="119" selection-start-line="119" selection-end-line="119" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="80" column="75" selection-start-line="80" selection-start-column="68" selection-end-line="80" selection-end-column="75" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="299">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://F:/gradle/gradle-4.10/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-netflix-ribbon/2.2.2.RELEASE/6d03b06e09866cfb335879341554f039c2b2144f/spring-cloud-netflix-ribbon-2.2.2.RELEASE-sources.jar!/org/springframework/cloud/netflix/ribbon/RibbonLoadBalancerClient.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1840">
+              <caret line="98" selection-start-line="98" selection-end-line="98" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="myGradleHomes">
+      <map>
+        <entry key="$PROJECT_DIR$" value="F:\gradle\gradle-4.10" />
+      </map>
+    </option>
+    <option name="myGradleVersions">
+      <map>
+        <entry key="$PROJECT_DIR$" value="4.10" />
+      </map>
+    </option>
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="spring-cloud-ribbon" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="spring-cloud-ribbon" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="availableTasks">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by root project 'spring-cloud-ribbon'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of root project 'spring-cloud-ribbon'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependent components of components in root project 'spring-cloud-ribbon'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependentComponents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all buildscript dependencies declared in root project 'spring-cloud-ribbon'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Gradle wrapper files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="wrapper" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles test classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="testClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles an executable jar archive containing the main classes and their dependencies." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="bootJar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of root project 'spring-cloud-ribbon'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes main resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from root project 'spring-cloud-ribbon'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Initializes a new Gradle build." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="init" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependency management declared in root project 'spring-cloud-ribbon'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencyManagement" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs this project as a Spring Boot application." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="bootRun" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles main Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in root project 'spring-cloud-ribbon'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles test Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in root project 'spring-cloud-ribbon'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes test resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Installs the 'archives' artifacts into the local Maven repository." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="install" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of root project 'spring-cloud-ribbon'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="4772326573666" />
+        <entry key="$PROJECT_DIR$/.gradle" value="0" />
+        <entry key="$PROJECT_DIR$/build.gradle" value="2914616000" />
+        <entry key="$PROJECT_DIR$/settings.gradle" value="3952078847" />
+      </map>
+    </option>
+    <option name="projectBuildClasspath">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <ExternalProjectBuildClasspathPojo>
+              <option name="modulesBuildClasspath">
+                <map>
+                  <entry key="$PROJECT_DIR$">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="entries">
+                          <list>
+                            <option value="F:/gradle/gradle-4.10/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-gradle-plugin/2.2.5.RELEASE/e45ad4ad4fcad19d9c37213c50420349a85c203d/spring-boot-gradle-plugin-2.2.5.RELEASE-sources.jar" />
+                            <option value="F:/gradle/gradle-4.10/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-loader-tools/2.2.5.RELEASE/afd1557298e0356bed51a9fb479c4d3a503d94ca/spring-boot-loader-tools-2.2.5.RELEASE-sources.jar" />
+                            <option value="F:/gradle/gradle-4.10/caches/modules-2/files-2.1/io.spring.gradle/dependency-management-plugin/1.0.9.RELEASE/e936f09ed9b97a4856a769b5e5da3eb336cb6d4f/dependency-management-plugin-1.0.9.RELEASE-sources.jar" />
+                            <option value="F:/gradle/gradle-4.10/caches/modules-2/files-2.1/org.springframework/spring-core/5.2.4.RELEASE/6026dc4811c3cb0caed128707329ece586dc237a/spring-core-5.2.4.RELEASE-sources.jar" />
+                            <option value="F:/gradle/gradle-4.10/caches/modules-2/files-2.1/org.apache.commons/commons-compress/1.19/9c242093f81288289bc433e383c8a8de89489406/commons-compress-1.19-sources.jar" />
+                            <option value="F:/gradle/gradle-4.10/caches/modules-2/files-2.1/org.springframework/spring-jcl/5.2.4.RELEASE/58ab6d327048148d5cf6f259c77b3116dcdaa1c3/spring-jcl-5.2.4.RELEASE-sources.jar" />
+                            <option value="F:/gradle/gradle-4.10/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-gradle-plugin/2.2.5.RELEASE/32cf14dfc042d33d0c448d86d75b2d95d7dea9bb/spring-boot-gradle-plugin-2.2.5.RELEASE.jar" />
+                            <option value="F:/gradle/gradle-4.10/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-loader-tools/2.2.5.RELEASE/64e42771f32eaec80420e8addf21958ea82e3bf7/spring-boot-loader-tools-2.2.5.RELEASE.jar" />
+                            <option value="F:/gradle/gradle-4.10/caches/modules-2/files-2.1/io.spring.gradle/dependency-management-plugin/1.0.9.RELEASE/6d0dbe81f96520e3de810e08c7198afcc1a6c7fd/dependency-management-plugin-1.0.9.RELEASE.jar" />
+                            <option value="F:/gradle/gradle-4.10/caches/modules-2/files-2.1/org.springframework/spring-core/5.2.4.RELEASE/155344a8b1a5e98c03c0a102b2aa008d2178f7a1/spring-core-5.2.4.RELEASE.jar" />
+                            <option value="F:/gradle/gradle-4.10/caches/modules-2/files-2.1/org.apache.commons/commons-compress/1.19/7e65777fb451ddab6a9c054beb879e521b7eab78/commons-compress-1.19.jar" />
+                            <option value="F:/gradle/gradle-4.10/caches/modules-2/files-2.1/org.springframework/spring-jcl/5.2.4.RELEASE/a516f6c15db9024ae64ad8aed76232aa3f875f9f/spring-jcl-5.2.4.RELEASE.jar" />
+                          </list>
+                        </option>
+                        <option name="path" value="$PROJECT_DIR$" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="name" value="spring-cloud-ribbon" />
+              <option name="projectBuildClasspath">
+                <list>
+                  <option value="F:/gradle/gradle-4.10/src/announce" />
+                  <option value="F:/gradle/gradle-4.10/src/antlr" />
+                  <option value="F:/gradle/gradle-4.10/src/base-services" />
+                  <option value="F:/gradle/gradle-4.10/src/base-services-groovy" />
+                  <option value="F:/gradle/gradle-4.10/src/build-cache" />
+                  <option value="F:/gradle/gradle-4.10/src/build-cache-http" />
+                  <option value="F:/gradle/gradle-4.10/src/build-comparison" />
+                  <option value="F:/gradle/gradle-4.10/src/build-init" />
+                  <option value="F:/gradle/gradle-4.10/src/build-option" />
+                  <option value="F:/gradle/gradle-4.10/src/cli" />
+                  <option value="F:/gradle/gradle-4.10/src/code-quality" />
+                  <option value="F:/gradle/gradle-4.10/src/composite-builds" />
+                  <option value="F:/gradle/gradle-4.10/src/core" />
+                  <option value="F:/gradle/gradle-4.10/src/core-api" />
+                  <option value="F:/gradle/gradle-4.10/src/dependency-management" />
+                  <option value="F:/gradle/gradle-4.10/src/diagnostics" />
+                  <option value="F:/gradle/gradle-4.10/src/docs" />
+                  <option value="F:/gradle/gradle-4.10/src/ear" />
+                  <option value="F:/gradle/gradle-4.10/src/ide" />
+                  <option value="F:/gradle/gradle-4.10/src/ide-native" />
+                  <option value="F:/gradle/gradle-4.10/src/ide-play" />
+                  <option value="F:/gradle/gradle-4.10/src/installation-beacon" />
+                  <option value="F:/gradle/gradle-4.10/src/internal-android-performance-testing" />
+                  <option value="F:/gradle/gradle-4.10/src/internal-integ-testing" />
+                  <option value="F:/gradle/gradle-4.10/src/internal-performance-testing" />
+                  <option value="F:/gradle/gradle-4.10/src/internal-testing" />
+                  <option value="F:/gradle/gradle-4.10/src/ivy" />
+                  <option value="F:/gradle/gradle-4.10/src/jacoco" />
+                  <option value="F:/gradle/gradle-4.10/src/javascript" />
+                  <option value="F:/gradle/gradle-4.10/src/jvm-services" />
+                  <option value="F:/gradle/gradle-4.10/src/language-groovy" />
+                  <option value="F:/gradle/gradle-4.10/src/language-java" />
+                  <option value="F:/gradle/gradle-4.10/src/language-jvm" />
+                  <option value="F:/gradle/gradle-4.10/src/language-native" />
+                  <option value="F:/gradle/gradle-4.10/src/language-scala" />
+                  <option value="F:/gradle/gradle-4.10/src/launcher" />
+                  <option value="F:/gradle/gradle-4.10/src/logging" />
+                  <option value="F:/gradle/gradle-4.10/src/maven" />
+                  <option value="F:/gradle/gradle-4.10/src/messaging" />
+                  <option value="F:/gradle/gradle-4.10/src/model-core" />
+                  <option value="F:/gradle/gradle-4.10/src/model-groovy" />
+                  <option value="F:/gradle/gradle-4.10/src/native" />
+                  <option value="F:/gradle/gradle-4.10/src/osgi" />
+                  <option value="F:/gradle/gradle-4.10/src/persistent-cache" />
+                  <option value="F:/gradle/gradle-4.10/src/platform-base" />
+                  <option value="F:/gradle/gradle-4.10/src/platform-jvm" />
+                  <option value="F:/gradle/gradle-4.10/src/platform-native" />
+                  <option value="F:/gradle/gradle-4.10/src/platform-play" />
+                  <option value="F:/gradle/gradle-4.10/src/plugin-development" />
+                  <option value="F:/gradle/gradle-4.10/src/plugin-use" />
+                  <option value="F:/gradle/gradle-4.10/src/plugins" />
+                  <option value="F:/gradle/gradle-4.10/src/process-services" />
+                  <option value="F:/gradle/gradle-4.10/src/publish" />
+                  <option value="F:/gradle/gradle-4.10/src/reporting" />
+                  <option value="F:/gradle/gradle-4.10/src/resources" />
+                  <option value="F:/gradle/gradle-4.10/src/resources-gcs" />
+                  <option value="F:/gradle/gradle-4.10/src/resources-http" />
+                  <option value="F:/gradle/gradle-4.10/src/resources-s3" />
+                  <option value="F:/gradle/gradle-4.10/src/resources-sftp" />
+                  <option value="F:/gradle/gradle-4.10/src/scala" />
+                  <option value="F:/gradle/gradle-4.10/src/signing" />
+                  <option value="F:/gradle/gradle-4.10/src/test-kit" />
+                  <option value="F:/gradle/gradle-4.10/src/testing-base" />
+                  <option value="F:/gradle/gradle-4.10/src/testing-junit-platform" />
+                  <option value="F:/gradle/gradle-4.10/src/testing-jvm" />
+                  <option value="F:/gradle/gradle-4.10/src/testing-native" />
+                  <option value="F:/gradle/gradle-4.10/src/tooling-api" />
+                  <option value="F:/gradle/gradle-4.10/src/tooling-api-builders" />
+                  <option value="F:/gradle/gradle-4.10/src/tooling-native" />
+                  <option value="F:/gradle/gradle-4.10/src/version-control" />
+                  <option value="F:/gradle/gradle-4.10/src/workers" />
+                  <option value="F:/gradle/gradle-4.10/src/wrapper" />
+                  <option value="F:/gradle/gradle-4.10/lib/ant-1.9.11.jar" />
+                  <option value="F:/gradle/gradle-4.10/lib/ant-launcher-1.9.11.jar" />
+                  <option value="F:/gradle/gradle-4.10/lib/gradle-api-metadata-4.10.jar" />
+                  <option value="F:/gradle/gradle-4.10/lib/gradle-base-services-4.10.jar" />
+                  <option value="F:/gradle/gradle-4.10/lib/gradle-base-services-groovy-4.10.jar" />
+                  <option value="F:/gradle/gradle-4.10/lib/gradle-build-cache-4.10.jar" />
+                  <option value="F:/gradle/gradle-4.10/lib/gradle-build-option-4.10.jar" />
+                  <option value="F:/gradle/gradle-4.10/lib/gradle-cli-4.10.jar" />
+                  <option value="F:/gradle/gradle-4.10/lib/gradle-core-4.10.jar" />
+                  <option value="F:/gradle/gradle-4.10/lib/gradle-core-api-4.10.jar" />
+                  <option value="F:/gradle/gradle-4.10/lib/gradle-docs-4.10.jar" />
+                  <option value="F:/gradle/gradle-4.10/lib/gradle-installation-beacon-4.10.jar" />
+                  <option value="F:/gradle/gradle-4.10/lib/gradle-jvm-services-4.10.jar" />
+                  <option value="F:/gradle/gradle-4.10/lib/gradle-kotlin-dsl-1.0-rc-3.jar" />
+                  <option value="F:/gradle/gradle-4.10/lib/gradle-kotlin-dsl-provider-plugins-1.0-rc-3.jar" />
+                  <option value="F:/gradle/gradle-4.10/lib/gradle-kotlin-dsl-tooling-builders-1.0-rc-3.jar" />
+                  <option value="F:/gradle/gradle-4.10/lib/gradle-kotlin-dsl-tooling-models-1.0-rc-3.jar" />
+                  <option value="F:/gradle/gradle-4.10/lib/gradle-launcher-4.10.jar" />
+                  <option value="F:/gradle/gradle-4.10/lib/gradle-logging-4.10.jar" />
+                  <option value="F:/gradle/gradle-4.10/lib/gradle-messaging-4.10.jar" />
+                  <option value="F:/gradle/gradle-4.10/lib/gradle-model-core-4.10.jar" />
+                  <option value="F:/gradle/gradle-4.10/lib/gradle-model-groovy-4.10.jar" />
+                  <option value="F:/gradle/gradle-4.10/lib/gradle-native-4.10.jar" />
+                  <option value="F:/gradle/gradle-4.10/lib/gradle-persistent-cache-4.10.jar" />
+                  <option value="F:/gradle/gradle-4.10/lib/gradle-process-services-4.10.jar" />
+                  <option value="F:/gradle/gradle-4.10/lib/gradle-resources-4.10.jar" />
+                  <option value="F:/gradle/gradle-4.10/lib/gradle-runtime-api-info-4.10.jar" />
+                  <option value="F:/gradle/gradle-4.10/lib/gradle-tooling-api-4.10.jar" />
+                  <option value="F:/gradle/gradle-4.10/lib/gradle-wrapper-4.10.jar" />
+                  <option value="F:/gradle/gradle-4.10/lib/groovy-all-2.4.15.jar" />
+                  <option value="F:/gradle/gradle-4.10/lib/plugins/gradle-announce-4.10.jar" />
+                  <option value="F:/gradle/gradle-4.10/lib/plugins/gradle-antlr-4.10.jar" />
+                  <option value="F:/gradle/gradle-4.10/lib/plugins/gradle-build-cache-http-4.10.jar" />
+                  <option value="F:/gradle/gradle-4.10/lib/plugins/gradle-build-comparison-4.10.jar" />
+                  <option value="F:/gradle/gradle-4.10/lib/plugins/gradle-build-init-4.10.jar" />
+                  <option value="F:/gradle/gradle-4.10/lib/plugins/gradle-code-quality-4.10.jar" />
+                  <option value="F:/gradle/gradle-4.10/lib/plugins/gradle-composite-builds-4.10.jar" />
+                  <option value="F:/gradle/gradle-4.10/lib/plugins/gradle-dependency-management-4.10.jar" />
+                  <option value="F:/gradle/gradle-4.10/lib/plugins/gradle-diagnostics-4.10.jar" />
+                  <option value="F:/gradle/gradle-4.10/lib/plugins/gradle-ear-4.10.jar" />
+                  <option value="F:/gradle/gradle-4.10/lib/plugins/gradle-ide-4.10.jar" />
+                  <option value="F:/gradle/gradle-4.10/lib/plugins/gradle-ide-native-4.10.jar" />
+                  <option value="F:/gradle/gradle-4.10/lib/plugins/gradle-ide-play-4.10.jar" />
+                  <option value="F:/gradle/gradle-4.10/lib/plugins/gradle-ivy-4.10.jar" />
+                  <option value="F:/gradle/gradle-4.10/lib/plugins/gradle-jacoco-4.10.jar" />
+                  <option value="F:/gradle/gradle-4.10/lib/plugins/gradle-javascript-4.10.jar" />
+                  <option value="F:/gradle/gradle-4.10/lib/plugins/gradle-language-groovy-4.10.jar" />
+                  <option value="F:/gradle/gradle-4.10/lib/plugins/gradle-language-java-4.10.jar" />
+                  <option value="F:/gradle/gradle-4.10/lib/plugins/gradle-language-jvm-4.10.jar" />
+                  <option value="F:/gradle/gradle-4.10/lib/plugins/gradle-language-native-4.10.jar" />
+                  <option value="F:/gradle/gradle-4.10/lib/plugins/gradle-language-scala-4.10.jar" />
+                  <option value="F:/gradle/gradle-4.10/lib/plugins/gradle-maven-4.10.jar" />
+                  <option value="F:/gradle/gradle-4.10/lib/plugins/gradle-osgi-4.10.jar" />
+                  <option value="F:/gradle/gradle-4.10/lib/plugins/gradle-platform-base-4.10.jar" />
+                  <option value="F:/gradle/gradle-4.10/lib/plugins/gradle-platform-jvm-4.10.jar" />
+                  <option value="F:/gradle/gradle-4.10/lib/plugins/gradle-platform-native-4.10.jar" />
+                  <option value="F:/gradle/gradle-4.10/lib/plugins/gradle-platform-play-4.10.jar" />
+                  <option value="F:/gradle/gradle-4.10/lib/plugins/gradle-plugin-development-4.10.jar" />
+                  <option value="F:/gradle/gradle-4.10/lib/plugins/gradle-plugin-use-4.10.jar" />
+                  <option value="F:/gradle/gradle-4.10/lib/plugins/gradle-plugins-4.10.jar" />
+                  <option value="F:/gradle/gradle-4.10/lib/plugins/gradle-publish-4.10.jar" />
+                  <option value="F:/gradle/gradle-4.10/lib/plugins/gradle-reporting-4.10.jar" />
+                  <option value="F:/gradle/gradle-4.10/lib/plugins/gradle-resources-gcs-4.10.jar" />
+                  <option value="F:/gradle/gradle-4.10/lib/plugins/gradle-resources-http-4.10.jar" />
+                  <option value="F:/gradle/gradle-4.10/lib/plugins/gradle-resources-s3-4.10.jar" />
+                  <option value="F:/gradle/gradle-4.10/lib/plugins/gradle-resources-sftp-4.10.jar" />
+                  <option value="F:/gradle/gradle-4.10/lib/plugins/gradle-scala-4.10.jar" />
+                  <option value="F:/gradle/gradle-4.10/lib/plugins/gradle-signing-4.10.jar" />
+                  <option value="F:/gradle/gradle-4.10/lib/plugins/gradle-test-kit-4.10.jar" />
+                  <option value="F:/gradle/gradle-4.10/lib/plugins/gradle-testing-base-4.10.jar" />
+                  <option value="F:/gradle/gradle-4.10/lib/plugins/gradle-testing-junit-platform-4.10.jar" />
+                  <option value="F:/gradle/gradle-4.10/lib/plugins/gradle-testing-jvm-4.10.jar" />
+                  <option value="F:/gradle/gradle-4.10/lib/plugins/gradle-testing-native-4.10.jar" />
+                  <option value="F:/gradle/gradle-4.10/lib/plugins/gradle-tooling-api-builders-4.10.jar" />
+                  <option value="F:/gradle/gradle-4.10/lib/plugins/gradle-tooling-native-4.10.jar" />
+                  <option value="F:/gradle/gradle-4.10/lib/plugins/gradle-version-control-4.10.jar" />
+                  <option value="F:/gradle/gradle-4.10/lib/plugins/gradle-workers-4.10.jar" />
+                  <option value="F:/gradle/gradle-4.10/lib/plugins/ivy-2.2.0.jar" />
+                </list>
+              </option>
+            </ExternalProjectBuildClasspathPojo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="D:/work/netty_lecture" value="PREVIEW" />
+        <entry key="E:/code/AhCrmSplitJob-parent" value="PREVIEW" />
+        <entry key="E:/code/JobManage" value="PREVIEW" />
+        <entry key="E:/code/batch" value="PREVIEW" />
+        <entry key="E:/code/complete" value="PREVIEW" />
+        <entry key="E:/code/complete/ordercenter-complete" value="PREVIEW" />
+        <entry key="E:/code/crmPortal" value="PREVIEW" />
+        <entry key="E:/code/lncf/order-split-parent" value="PREVIEW" />
+        <entry key="E:/code/order-sort-cancel-core-parent" value="PREVIEW" />
+        <entry key="E:/code/order-sort-cancel-parent" value="PREVIEW" />
+        <entry key="E:/code/shanxi/batch" value="PREVIEW" />
+        <entry key="E:/code/shanxi/order-split-parent" value="PREVIEW" />
+        <entry key="E:/niaoling/4to2" value="PREVIEW" />
+        <entry key="E:/niaoling/batch" value="PREVIEW" />
+        <entry key="E:/niaoling/batchcode/batch" value="PREVIEW" />
+        <entry key="E:/niaoling/code/batch" value="PREVIEW" />
+        <entry key="E:/niaoling/code/completion-branch" value="PREVIEW" />
+        <entry key="E:/niaoling/code/completion-branch/Completion" value="PREVIEW" />
+        <entry key="E:/niaoling/complete-assist-task" value="PREVIEW" />
+        <entry key="E:/niaoling/complete-assist-task-pcrf" value="PREVIEW" />
+        <entry key="E:/niaoling/complete-parent" value="PREVIEW" />
+        <entry key="E:/niaoling/complete-sort" value="PREVIEW" />
+        <entry key="E:/niaoling/completion-parent" value="PREVIEW" />
+        <entry key="E:/niaoling/data-acquisition" value="PREVIEW" />
+        <entry key="E:/niaoling/ln/complete-sort" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../Spring微服务资料与源码/spring_cloud_projects" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../Spring微服务资料与源码/spring_cloud_projects/spring-cloud-config-server" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../Spring微服务资料与源码/spring_cloud_projects/spring-cloud-eureka" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
+        <entry key="$PROJECT_DIR$/../../spring_lecture" value="PREVIEW" />
+        <entry key="E:/xizang/complete-assist-task" value="PREVIEW" />
+        <entry key="E:/辽宁/code/batch" value="PREVIEW" />
+        <entry key="E:/辽宁/complete-sort" value="PREVIEW" />
+        <entry key="E:/辽宁4转2/complete-assist-task-4to2" value="PREVIEW" />
+        <entry key="E:/门户/bssOdmWeb" value="PREVIEW" />
+        <entry key="E:/首话激活/OrderMgr" value="PREVIEW" />
+        <entry key="G:/资料-书籍/gradle-in-action-source-master/chapter03" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lieding/ribbon/config/RibbonConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lieding/ribbon/com/lieding/ribbon/controller/RibbonController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lieding/ribbon/service/RibbonService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lieding/ribbon/service/impl/RibbonServiceImpl.java" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lieding/ribbon/EurekaRibbonClientApplication.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="65" />
+    <option name="y" value="144" />
+    <option name="width" value="1173" />
+    <option name="height" value="701" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <autoscrollFromSource ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="spring-cloud-ribbon" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-cloud-ribbon" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-cloud-ribbon" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-cloud-ribbon" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-cloud-ribbon" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-cloud-ribbon" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-cloud-ribbon" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-cloud-ribbon" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-cloud-ribbon" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-cloud-ribbon" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ribbon" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-cloud-ribbon" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-cloud-ribbon" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ribbon" type="462c0819:PsiDirectoryNode" />
+              <item name="EurekaRibbonClientApplication" type="1a9f42e2:ClassTreeNode" />
+            </path>
+            <path>
+              <item name="spring-cloud-ribbon" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-cloud-ribbon" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-cloud-ribbon" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-cloud-ribbon" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+              <item name="RibbonController" type="1a9f42e2:ClassTreeNode" />
+            </path>
+            <path>
+              <item name="spring-cloud-ribbon" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-cloud-ribbon" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-cloud-ribbon" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-cloud-ribbon" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+              <item name="RibbonConfig" type="1a9f42e2:ClassTreeNode" />
+            </path>
+            <path>
+              <item name="spring-cloud-ribbon" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-cloud-ribbon" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-cloud-ribbon" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-cloud-ribbon" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="RibbonService" type="1a9f42e2:ClassTreeNode" />
+            </path>
+            <path>
+              <item name="spring-cloud-ribbon" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-cloud-ribbon" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-cloud-ribbon" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-cloud-ribbon" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+              <item name="RibbonServiceImpl" type="1a9f42e2:ClassTreeNode" />
+            </path>
+            <path>
+              <item name="spring-cloud-ribbon" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-cloud-ribbon" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-cloud-ribbon" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="spring-cloud-ribbon" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Gradle: org.springframework.cloud:spring-cloud-netflix-hystrix-dashboard:2.2.2.RELEASE" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="spring-cloud-ribbon" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Gradle: org.springframework.cloud:spring-cloud-netflix-hystrix-dashboard:2.2.2.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-cloud-netflix-hystrix-dashboard-2.2.2.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-cloud-ribbon" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Gradle: org.springframework.cloud:spring-cloud-netflix-hystrix-dashboard:2.2.2.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-cloud-netflix-hystrix-dashboard-2.2.2.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="dashboard" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-cloud-ribbon" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Gradle: org.springframework.cloud:spring-cloud-netflix-hystrix-dashboard:2.2.2.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-cloud-netflix-hystrix-dashboard-2.2.2.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="dashboard" type="462c0819:PsiDirectoryNode" />
+              <item name="HystrixDashboardConfiguration" type="1a9f42e2:ClassTreeNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1590766480021" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="EurekaRibbonClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="spring-cloud-ribbon_main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lieding.ribbon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lieding.ribbon.EurekaRibbonClientApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.EurekaRibbonClientApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2b59497b-657f-4945-b0fd-cd60939d539c" name="Default Changelist" comment="" />
+      <created>1590740536848</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590740536848</updated>
+      <workItem from="1590740540268" duration="8798000" />
+      <workItem from="1590819657895" duration="1695000" />
+      <workItem from="1590839242487" duration="2053000" />
+      <workItem from="1590844811085" duration="1481000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="14027000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="65" y="144" width="1173" height="701" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17430368" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.5114235" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.40421793" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.44112477" />
+      <window_info anchor="bottom" id="Spring" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="14" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Tail" order="15" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info anchor="right" id="Gradle" order="6" visible="true" weight="0.04851752" />
+      <window_info anchor="right" id="SciView" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
+      <window_info anchor="right" id="Theme Preview" order="10" />
+      <window_info anchor="right" id="Bean Validation" order="11" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://F:/gradle/gradle-4.10/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-commons/2.2.2.RELEASE/900d034bee020a120456242e7736825ea834827c/spring-cloud-commons-2.2.2.RELEASE-sources.jar!/org/springframework/cloud/client/loadbalancer/LoadBalancerInterceptor.java</url>
+          <line>53</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://F:/gradle/gradle-4.10/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-netflix-eureka-client/2.2.2.RELEASE/2593f41456e1a9f7cff653a8023c64b23feeb626/spring-cloud-netflix-eureka-client-2.2.2.RELEASE-sources.jar!/org/springframework/cloud/netflix/eureka/EurekaClientConfigBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="774" column="16" selection-start-line="774" selection-start-column="16" selection-end-line="774" selection-end-column="16" />
+          <folding>
+            <element signature="e#23123#23124#0" expanded="true" />
+            <element signature="e#23158#23159#0" expanded="true" />
+            <element signature="e#23698#23699#0" expanded="true" />
+            <element signature="e#23749#23750#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lieding/ribbon/config/RibbonConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="13" column="9" lean-forward="true" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/gradle/gradle-4.10/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-commons/2.2.2.RELEASE/900d034bee020a120456242e7736825ea834827c/spring-cloud-commons-2.2.2.RELEASE-sources.jar!/org/springframework/cloud/client/loadbalancer/LoadBalanced.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="83">
+          <caret line="35" column="10" lean-forward="true" selection-start-line="35" selection-start-column="10" selection-end-line="35" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/gradle/gradle-4.10/caches/modules-2/files-2.1/org.springframework/spring-web/5.2.4.RELEASE/c0d0b64eb0a3549ba9666b2b24ec1ab9af7c7da4/spring-web-5.2.4.RELEASE-sources.jar!/org/springframework/http/client/ClientHttpRequestInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-172">
+          <caret line="36" column="17" selection-start-line="36" selection-start-column="17" selection-end-line="36" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/gradle/gradle-4.10/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-commons/2.2.2.RELEASE/900d034bee020a120456242e7736825ea834827c/spring-cloud-commons-2.2.2.RELEASE-sources.jar!/org/springframework/cloud/client/loadbalancer/LoadBalancerAutoConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="90" column="40" selection-start-line="90" selection-start-column="40" selection-end-line="90" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/gradle/gradle-4.10/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-commons/2.2.2.RELEASE/900d034bee020a120456242e7736825ea834827c/spring-cloud-commons-2.2.2.RELEASE-sources.jar!/org/springframework/cloud/client/ServiceInstance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-695">
+          <caret line="27" column="17" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/gradle/gradle-4.10/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-commons/2.2.2.RELEASE/900d034bee020a120456242e7736825ea834827c/spring-cloud-commons-2.2.2.RELEASE-sources.jar!/org/springframework/cloud/client/loadbalancer/ServiceInstanceChooser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="313">
+          <caret line="33" column="26" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/gradle/gradle-4.10/caches/modules-2/files-2.1/com.netflix.ribbon/ribbon-loadbalancer/2.3.0/34ef50110d6f79c4ac36224560b51b0579a9bd08/ribbon-loadbalancer-2.3.0-sources.jar!/com/netflix/loadbalancer/Server.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-69">
+          <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/gradle/gradle-4.10/caches/modules-2/files-2.1/com.netflix.ribbon/ribbon-loadbalancer/2.3.0/34ef50110d6f79c4ac36224560b51b0579a9bd08/ribbon-loadbalancer-2.3.0-sources.jar!/com/netflix/loadbalancer/ILoadBalancer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="33" column="31" lean-forward="true" selection-start-line="33" selection-start-column="31" selection-end-line="33" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/gradle/gradle-4.10/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-commons/2.2.2.RELEASE/900d034bee020a120456242e7736825ea834827c/spring-cloud-commons-2.2.2.RELEASE-sources.jar!/org/springframework/cloud/client/loadbalancer/LoadBalancerClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="28" column="23" lean-forward="true" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/gradle/gradle-4.10/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-commons/2.2.2.RELEASE/900d034bee020a120456242e7736825ea834827c/spring-cloud-commons-2.2.2.RELEASE-sources.jar!/org/springframework/cloud/client/loadbalancer/LoadBalancerRequestFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="103">
+          <caret line="51" selection-start-line="51" selection-end-line="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/gradle/gradle-4.10/caches/modules-2/files-2.1/com.netflix.ribbon/ribbon-loadbalancer/2.3.0/34ef50110d6f79c4ac36224560b51b0579a9bd08/ribbon-loadbalancer-2.3.0-sources.jar!/com/netflix/loadbalancer/ZoneAwareLoadBalancer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="112" selection-start-line="112" selection-end-line="112" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/gradle/gradle-4.10/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-commons/2.2.2.RELEASE/900d034bee020a120456242e7736825ea834827c/spring-cloud-commons-2.2.2.RELEASE-sources.jar!/org/springframework/cloud/client/loadbalancer/LoadBalancerInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="828">
+          <caret line="57" selection-start-line="57" selection-end-line="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/gradle/gradle-4.10/caches/modules-2/files-2.1/org.springframework/spring-web/5.2.4.RELEASE/c0d0b64eb0a3549ba9666b2b24ec1ab9af7c7da4/spring-web-5.2.4.RELEASE-sources.jar!/org/springframework/http/client/InterceptingClientHttpRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1058">
+          <caret line="76" selection-start-line="76" selection-end-line="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/gradle/gradle-4.10/caches/modules-2/files-2.1/org.springframework/spring-web/5.2.4.RELEASE/c0d0b64eb0a3549ba9666b2b24ec1ab9af7c7da4/spring-web-5.2.4.RELEASE-sources.jar!/org/springframework/http/client/AbstractBufferingClientHttpRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="713">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/gradle/gradle-4.10/caches/modules-2/files-2.1/org.springframework/spring-web/5.2.4.RELEASE/c0d0b64eb0a3549ba9666b2b24ec1ab9af7c7da4/spring-web-5.2.4.RELEASE-sources.jar!/org/springframework/http/client/AbstractClientHttpRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="828">
+          <caret line="54" selection-start-line="54" selection-end-line="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/gradle/gradle-4.10/caches/modules-2/files-2.1/org.springframework/spring-web/5.2.4.RELEASE/c0d0b64eb0a3549ba9666b2b24ec1ab9af7c7da4/spring-web-5.2.4.RELEASE-sources.jar!/org/springframework/web/method/support/InvocableHandlerMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2415">
+          <caret line="137" selection-start-line="137" selection-end-line="137" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lieding/ribbon/service/impl/RibbonServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/gradle/gradle-4.10/caches/modules-2/files-2.1/org.springframework/spring-web/5.2.4.RELEASE/c0d0b64eb0a3549ba9666b2b24ec1ab9af7c7da4/spring-web-5.2.4.RELEASE-sources.jar!/org/springframework/web/client/RestTemplate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5635">
+          <caret line="310" column="17" selection-start-line="310" selection-start-column="17" selection-end-line="310" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/gradle/gradle-4.10/caches/modules-2/files-2.1/com.netflix.hystrix/hystrix-javanica/1.5.18/f727ee47b3fa9bba5b73944025b2ecaf54d26679/hystrix-javanica-1.5.18-sources.jar!/com/netflix/hystrix/contrib/javanica/annotation/HystrixCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1219">
+          <caret line="72" column="19" selection-start-line="72" selection-start-column="19" selection-end-line="72" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lieding/ribbon/com/lieding/ribbon/controller/RibbonController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="23" column="38" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#665#666#0" expanded="true" />
+            <element signature="e#713#714#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lieding/ribbon/service/RibbonService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/gradle/gradle-4.10/caches/modules-2/files-2.1/org.springframework/spring-webmvc/5.2.4.RELEASE/e266db43ad481712ee9eb7eeaf951db1d0116216/spring-webmvc-5.2.4.RELEASE-sources.jar!/org/springframework/web/servlet/mvc/method/annotation/ServletInvocableHandlerMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1702">
+          <caret line="119" selection-start-line="119" selection-end-line="119" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/gradle/gradle-4.10/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-netflix-ribbon/2.2.2.RELEASE/6d03b06e09866cfb335879341554f039c2b2144f/spring-cloud-netflix-ribbon-2.2.2.RELEASE-sources.jar!/org/springframework/cloud/netflix/ribbon/RibbonLoadBalancerClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1840">
+          <caret line="98" selection-start-line="98" selection-end-line="98" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="80" column="75" selection-start-line="80" selection-start-column="68" selection-end-line="80" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/gradle/gradle-4.10/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-netflix-hystrix-dashboard/2.2.2.RELEASE/7ec3f7483acce15b5ff1345996a1ea83ed6a8d7a/spring-cloud-netflix-hystrix-dashboard-2.2.2.RELEASE-sources.jar!/org/springframework/cloud/netflix/hystrix/dashboard/HystrixDashboardConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2172">
+          <caret line="58" column="13" selection-start-line="58" selection-start-column="13" selection-end-line="58" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/gradle/gradle-4.10/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-netflix-hystrix-dashboard/2.2.2.RELEASE/7ec3f7483acce15b5ff1345996a1ea83ed6a8d7a/spring-cloud-netflix-hystrix-dashboard-2.2.2.RELEASE-sources.jar!/org/springframework/cloud/netflix/hystrix/dashboard/EnableHystrixDashboard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="86">
+          <caret line="32" column="26" selection-start-line="32" selection-start-column="26" selection-end-line="32" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lieding/ribbon/EurekaRibbonClientApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="17" column="14" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
+          <folding>
+            <element signature="e#447#448#0" expanded="true" />
+            <element signature="e#521#522#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
